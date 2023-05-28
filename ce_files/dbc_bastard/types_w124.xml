@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<types>
+  <type name="Bastard_w124_cargo1door_skin1">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_cargo1door_skin2">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_cargo1door_stock">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_cargo2door_skin1">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_cargo2door_skin2">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_cargo2door_stock">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_codriverdoor_skin1">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_codriverdoor_skin2">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_codriverdoor_stock">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_driverdoor_skin1">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_driverdoor_skin2">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_driverdoor_stock">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_hooddoor_skin1">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_hooddoor_skin2">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_hooddoor_stock">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_police">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Bastard_w124_rust">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Bastard_w124_rust_skin1">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Bastard_w124_rust_skin2">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Bastard_w124_skin1">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Bastard_w124_skin2">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Bastard_w124_stock">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>1800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Bastard_w124_trunkdoor_skin1">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_trunkdoor_skin2">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Bastard_w124_trunkdoor_stock">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="mercedeswheel_5x120">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <tag name="" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="mercedeswheel_5x120_Ruined">
+    <nominal>0</nominal>
+    <lifetime>8400</lifetime>
+    <min>0</min>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehiclesparts" />
+    <usage name="Village" />
+  </type>
+</types>
