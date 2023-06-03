@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="MOE_Explosive_Homemade">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+	<type name="MOE_Explosive_Military">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+	<type name="MOE_Detonator_Homemade">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+	<type name="MOE_Detonator_Military">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+	<type name="MOE_Receiver_Homemade">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+	<type name="MOE_Receiver_Military">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+	<type name="MOE_Timer_Homemade">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+	<type name="MOE_Timer_Military">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+	<type name="MOE_C4_Stick">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+	<type name="MOE_Gunpowder">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+	<type name="MOE_Sulfurpowder">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+	<type name="MOE_Charcoalpowder">
+		<nominal></nominal>
+		<lifetime></lifetime>
+		<restock></restock>
+		<min></min>
+		<quantmin></quantmin>
+		<quantmax></quantmax>
+		<cost></cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+		<usage name=""/>
+		<value name=""/>
+	</type>
+</types>

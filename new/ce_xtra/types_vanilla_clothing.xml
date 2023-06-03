@@ -1,0 +1,2487 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="XV_BlackAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineAssaultBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineTacticalBag">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineBalaclava">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineGorkaJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineGorkaPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineGorkaHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineCombatBoots">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineGloves">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineBallisticHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineTacticalHelmet">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineTacticalJacket">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineTacticalPants">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineKevlarVest">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackPlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenPlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanPlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLPlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanPlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertPlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnPlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreePlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamPlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackPlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicPlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpinePlateCarrier">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackPouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenPouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanPouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLPouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanPouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertPouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnPouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreePouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamPouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackPouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicPouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpinePouches">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_BlackHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_GreenHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_TanHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_ERDLHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_UrbanHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_DesertHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_FlecktarnHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_RealtreeHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamBlackHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamTropicHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="XV_MulticamAlpineHolster">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+   <type name="XV_TowerGorkaJacket">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerTacticalJacket">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerGorkaPants">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerTacticalPants">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerGorkaHelmet">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerBallisticHelmet">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerTacticalHelmet">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerKevlarVest">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerPlateCarrier">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerBalaclava">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerGloves">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerCombatBoots">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerAssaultBag">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerTacticalBag">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+    <type name="XV_TowerPouches">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+</types>

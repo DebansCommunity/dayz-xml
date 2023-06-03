@@ -1,0 +1,1962 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<damage min="0.0" max="0.4" /><!-- If you don't need damaged loot in spawn, remove this string -->
+	<!-- BAGS -->
+	<type name="IMP_Bag_6ShBag_Black">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_Black" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_6ShBag_Green">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixHunter" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_6ShBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_6ShBag_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_6ShBag_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_UCP" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_6ShBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_6ShBag_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_MARPAT" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_Adventure_Black">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="IMP_Bag_Adventure_Green">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixHunter" />
+	</type>
+	<type name="IMP_Bag_Adventure_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Adventure_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Adventure_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Adventure_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Adventure_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_MarchingBag_co">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_MarchingBag_black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Ataka3">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Ataka3" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_Ataka3_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Ataka3_Black" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_Survival">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="IMP_Bag_BattleBag_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_Black" chance="0.10" />
+			<item name="IMP_Pouch_Tactical_Black" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_Black" chance="0.30" />
+			<item name="IMP_Pouch_PlateCarrierHolster_Black" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BattleBag_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_Green" chance="0.10" />
+			<item name="IMP_Pouch_Tactical_Green" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_NWU" chance="0.30" />
+			<item name="IMP_Pouch_PlateCarrierHolster_Green" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BattleBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_Tan" chance="0.10" />
+			<item name="IMP_Pouch_Tactical_Tan" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.30" />
+			<item name="IMP_Pouch_PlateCarrierHolster_Tan" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BattleBag_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_UCP" chance="0.10" />
+			<item name="IMP_Pouch_Tactical_UCP" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_UCP" chance="0.30" />
+			<item name="IMP_Pouch_PlateCarrierHolster_UCP" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BattleBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_EMR" chance="0.10" />
+			<item name="IMP_Pouch_Tactical_EMR" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.30" />
+			<item name="IMP_Pouch_PlateCarrierHolster_EMR" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BattleBag_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_NWU" chance="0.10" />
+			<item name="IMP_Pouch_Tactical_NWU" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_NWU" chance="0.30" />
+			<item name="IMP_Pouch_PlateCarrierHolster_NWU" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BattleBag_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_MARPAT" chance="0.20" />
+			<item name="IMP_Pouch_Tactical_MARPAT" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_MARPAT" chance="0.30" />
+			<item name="IMP_Pouch_PlateCarrierHolster_MARPAT" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag3_Olive">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag3_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag3_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag3_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag3_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag3_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag3_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Mountain_Blue">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="IMP_Bag_Mountain_Green">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="IMP_Bag_Mountain_Red">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="IMP_Bag_Mountain_Yellow">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="IMP_Bag_CompactBag2_Olive">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_Tan" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag" chance="0.20" />
+			<item name="IMP_Pouch_IFAK_Green" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag2_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_Black" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_Black" chance="0.20" />
+			<item name="IMP_Pouch_IFAK_Black" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag2_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_Tan" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag" chance="0.20" />
+			<item name="IMP_Pouch_IFAK_Tan" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag2_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_UCP" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_UCP" chance="0.20" />
+			<item name="IMP_Pouch_IFAK_UCP" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag2_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_EMR" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.20" />
+			<item name="IMP_Pouch_IFAK_EMR" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag2_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_NWU" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_NWU" chance="0.20" />
+			<item name="IMP_Pouch_IFAK_NWU" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag2_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_MARPAT" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_MARPAT" chance="0.20" />
+			<item name="IMP_Pouch_IFAK_MARPAT" chance="0.30" />			
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag_Olive">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CompactBag_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_MLTMilitary">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_RushBag_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_RushBag_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_RushBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_RushBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_RushBag_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_RushBag_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_RushBag_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	
+	<type name="IMP_Bag_ScoutBag_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_ScoutBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_ScoutBag_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_ScoutBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_ScoutBag_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_ScoutBag_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_ScoutBag_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	
+	<type name="IMP_Bag_Pegasus_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Pegasus_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Pegasus_Grey">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Pegasus_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Pegasus_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Pegasus_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Pegasus_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Pegasus_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	
+	<type name="IMP_Bag_HuntingBag_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_Black" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_Black" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_HuntingBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_Tan" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_HuntingBag_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_Green" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_HuntingBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_EMR" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_HuntingBag_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_NWU" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_HuntingBag_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_UCP" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_UCP" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_HuntingBag_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_MARPAT" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_MARPAT" chance="0.20" />
+		</attachments>
+	</type>
+	
+	<type name="IMP_Bag_CamelBak_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBak_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBak_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBak_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBak_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBak_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBak_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	
+	<type name="IMP_Bag_CamelBag_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBag_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBag_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBag_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_CamelBag_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+
+	<type name="IMP_Bag_Rifle_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Rifle_Grey">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Rifle_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Rifle_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Rifle_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Rifle_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Rifle_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="IMP_Bag_Rifle_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	
+	<type name="IMP_Bag_BuilderBag">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	
+	<type name="IMP_Bag_RuckSack_Black">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="IMP_Bag_RuckSack_Tan">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="IMP_Bag_RuckSack_Green">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="IMP_Bag_RuckSack_EMR">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="IMP_Bag_RuckSack_NWU">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="IMP_Bag_RuckSack_UCP">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	<type name="IMP_Bag_RuckSack_MARPAT">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+		<cargo preset="toolsIndustrial" />
+	</type>
+	
+	<type name="IMP_Bag_MiniMilitaryBag_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_Black" chance="0.30" />
+			<item name="IMP_Pouch_Tactical_Black" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_Black" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MiniMilitaryBag_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_Green" chance="0.30" />
+			<item name="IMP_Pouch_Tactical_Green" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_MARPAT" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MiniMilitaryBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_Tan" chance="0.30" />
+			<item name="IMP_Pouch_Tactical_Tan" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MiniMilitaryBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_EMR" chance="0.30" />
+			<item name="IMP_Pouch_Tactical_EMR" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MiniMilitaryBag_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_NWU" chance="0.30" />
+			<item name="IMP_Pouch_Tactical_NWU" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_NWU" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MiniMilitaryBag_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_UCP" chance="0.30" />
+			<item name="IMP_Pouch_Tactical_UCP" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_UCP" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MiniMilitaryBag_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_Tactical_MARPAT" chance="0.30" />
+			<item name="IMP_Pouch_Tactical_MARPAT" chance="0.30" />
+			<item name="IMP_Pouch_NBCBag_MARPAT" chance="0.20" />
+		</attachments>
+	</type>
+	
+	<type name="IMP_Bag_MilitaryBag_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_Black" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MilitaryBag_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MilitaryBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MilitaryBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MilitaryBag_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_NWU" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MilitaryBag_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_UCP" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_MilitaryBag_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_MARPAT" chance="0.20" />
+		</attachments>
+	</type>
+	
+	<type name="IMP_Bag_CombatBag">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_Black" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag_Olive">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_Green" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_Black" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_Tan" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_NWU" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_EMR" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_UCP" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_CompactBag_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_PlateCarrierHolster_MARPAT" chance="0.20" />
+		</attachments>
+	</type>
+		
+	<type name="IMP_Bag_BigMilitaryBag_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_Black" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BigMilitaryBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BigMilitaryBag_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BigMilitaryBag_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_NWU" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BigMilitaryBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_EMR" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BigMilitaryBag_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_UCP" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="IMP_Bag_BigMilitaryBag_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="IMP_Pouch_NBCBag_MARPAT" chance="0.20" />
+		</attachments>
+	</type>
+	
+	<!-- Belt -->
+	<type name="IMP_Belt_MilitaryBelt_Black">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_LockPick_Black" chance="0.3" />
+			<item name="IMP_Pouch_MapPouch_Black" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_Black" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Belt_MilitaryBelt_Camo">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_LockPick_Black" chance="0.3" />
+			<item name="IMP_Pouch_MapPouch_Black" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Belt_MilitaryBelt_Green">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_LockPick_Green" chance="0.3" />
+			<item name="IMP_Pouch_MapPouch_Green" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_Green" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Belt_MilitaryBelt_Tan">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_LockPick_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MapPouch_Tan" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_Tan" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Belt_MilitaryBelt_NWU">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_LockPick_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MapPouch_NWU" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_NWU" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Belt_MilitaryBelt_EMR">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_LockPick_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MapPouch_EMR" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_EMR" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Belt_MilitaryBelt_UCP">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_LockPick_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MapPouch_UCP" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_UCP" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Belt_MilitaryBelt_MARPAT">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_LockPick_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MapPouch_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch3_MARPAT" chance="0.3" />
+		</attachments>
+	</type>
+	
+	<!-- Helmet -->
+	<type name="IMP_Helmet_Dominator2_Green">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_Green" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Dominator2_Flecktarn">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Dominator2_Grey">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Dominator2_Multicam">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Dominator2_Tan">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_Tan" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Dominator2_Urban">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_UCP" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Dominator2_WD">
+		<attachments chance="0.30">
+			<item name="Battery9V" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Dominator2_UCP">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_EMR" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Dominator2_EMR">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_EMR" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Dominator2_NWU">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_NWU" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Dominator2_MARPAT">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_MARPAT" chance="1.0" />
+		</attachments>
+	</type>
+	
+	<type name="IMP_Helmet_Heavy_Dominator2_Green">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_Green" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Heavy_Dominator2_Flecktarn">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Heavy_Dominator2_Grey">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Heavy_Dominator2_Multicam">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Heavy_Dominator2_Tan">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_TAN" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Heavy_Dominator2_Urban">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Heavy_Dominator2_WD">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Heavy_Dominator2_UCP">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_UCP" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Heavy_Dominator2_EMR">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_EMR" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Heavy_Dominator2_NWU">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_NWU" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Helmet_Heavy_Dominator2_MARPAT">
+		<attachments chance="0.30">
+			<item name="IMP_Visor_MARPAT" chance="1.0" />
+		</attachments>
+	</type>
+	<!-- Газики --> 
+	
+	<type name="IMP_M79Mask_Black">
+		<cargo chance="0.2">
+			<item name="GasMask_Filter" />
+		</cargo>
+	</type>
+	<type name="IMP_M79Mask_Blue">
+		<cargo chance="0.2">
+			<item name="GasMask_Filter" />
+		</cargo>
+	</type>
+	<type name="IMP_M79Mask_Green">
+		<cargo chance="0.2">
+			<item name="GasMask_Filter" />
+		</cargo>
+	</type>
+	<type name="IMP_M79Mask_Yellow">
+		<cargo chance="0.2">
+			<item name="GasMask_Filter" />
+		</cargo>
+	</type>
+	<type name="IMP_GP7M2_Mask">
+		<cargo chance="0.2">
+			<item name="GasMask_Filter" />
+		</cargo>
+	</type>
+	<type name="IMP_M04Mask">
+		<cargo chance="0.2">
+			<item name="GasMask_Filter" />
+		</cargo>
+	</type>
+	<type name="IMP_RSH4Mask">
+		<cargo chance="0.2">
+			<item name="GasMask_Filter" />
+		</cargo>
+	</type>
+	
+	<!-- NVG -->
+	<type name="IMP_NVG_GPNVG_18_Black">
+		<attachments chance="0.30">
+			<item name="Battery9V" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_NVG_GPNVG_18_Green">
+			<attachments chance="0.30">
+			<item name="Battery9V" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_NVG_GPNVG_18_Tan">
+			<attachments chance="0.30">
+			<item name="Battery9V" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_NVG_N15">
+			<attachments chance="0.30">
+			<item name="Battery9V" chance="1.0" />
+		</attachments>
+	</type>
+	
+	<!-- Vest --> 
+	
+	<type name="IMP_Vest_6b23_Black">
+	<attachments chance="1.0">
+			<item name="IMP_Pouch_PlateCarrierHolster_Black" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_Black" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Black" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6b23_Green">
+	<attachments chance="1.0">
+			<item name="IMP_Pouch_PlateCarrierHolster_Green" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_Green" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Green" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6b23_Tan">
+	<attachments chance="1.0">
+			<item name="IMP_Pouch_PlateCarrierHolster_Tan" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_Tan" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Black" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6b23_MARPAT">
+	<attachments chance="1.0">
+			<item name="IMP_Pouch_PlateCarrierHolster_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_MARPAT" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6b23_NVU">
+	<attachments chance="1.0">
+			<item name="IMP_Pouch_PlateCarrierHolster_NVU" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_NVU" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_NVU" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6b23_EMR">
+	<attachments chance="1.0">
+			<item name="IMP_Pouch_PlateCarrierHolster_EMR" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_EMR" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_EMR" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6b23_UCP">
+	<attachments chance="1.0">
+			<item name="IMP_Pouch_PlateCarrierHolster_UCP" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_UCP" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_UCP" chance="0.3" />
+		</attachments>
+	</type>
+	
+	
+	<type name="IMP_Vest_6B43_Pixel">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_EM_MARPAT" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="1.0" />
+			<item name="IMP_Pouch_IFAK_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B43_Black">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_EM_Black" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="1.0" />
+			<item name="IMP_Pouch_IFAK_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B43_Green">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_EM_Green" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="1.0" />
+			<item name="IMP_Pouch_IFAK_Green" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B43_Tan">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_EM_Tan" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="1.0" />
+			<item name="IMP_Pouch_IFAK_Tan" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B43_EMR">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_EM_EMR" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="1.0" />
+			<item name="IMP_Pouch_IFAK_EMR" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B43_NWU">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_EM_NWU" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="1.0" />
+			<item name="IMP_Pouch_IFAK_NWU" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B43_MARPAT">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_EM_MARPAT" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="1.0" />
+			<item name="IMP_Pouch_IFAK_MARPAT" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B43_UCP">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_EM_UCP" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="1.0" />
+			<item name="IMP_Pouch_IFAK_UCP" chance="1.0" />
+		</attachments>
+	</type>
+	
+	<type name="IMP_Vest_6B45_Black">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Black" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B45_Green">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Green" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B45_Tan">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Tan" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B45_EMR">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_EMR" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B45_NWU">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_NWU" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B45_MARPAT">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_MARPAT" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_6B45_UCP">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_UCP" chance="0.3" />
+		</attachments>
+	</type>
+	
+	<type name="IMP_Vest_Armis_Black">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Black" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Armis_Green">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Green" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Armis_Tan">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Tan" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Armis_EMR">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_EMR" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Armis_NWU">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_NWU" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Armis_MARPAT">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_MARPAT" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Armis_UCP">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_UCP" chance="0.3" />
+		</attachments>
+	</type>
+
+	<type name="IMP_Vest_Defender_Black">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Black" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Defender_Green">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Green" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Defender_Tan">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Tan" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Defender_EMR">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_EMR" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Defender_NWU">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_NWU" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Defender_MARPAT">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_MARPAT" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_Defender_UCP">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_UCP" chance="0.3" />
+		</attachments>
+	</type>
+	
+	<type name="IMP_Vest_MTV_Black">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_EM_Black" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="1.0" />
+			<item name="IMP_Pouch_IFAK_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MTV_Green">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Green" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MTV_Tan">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Tan" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MTV_EMR">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_EMR" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MTV_NWU">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_NWU" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MTV_MARPAT">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_MARPAT" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MTV_UCP">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_UCP" chance="0.3" />
+		</attachments>
+	</type>
+	
+	<type name="IMP_Vest_IOTVMini_Black">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_Tactical_Black" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTVMini_Green">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_Tactical_Green" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTVMini_Tan">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_Tactical_Tan" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTVMini_EMR">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_Tactical_Tan" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTVMini_NWU">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_Tactical_NWU" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTVMini_MARPAT">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_Tactical_MARPAT" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTVMini_UCP">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_Tactical_UCP" chance="0.3" />
+		</attachments>
+	</type>
+	
+	<type name="IMP_Vest_IOTV_Black">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="0.3" />
+			<item name="IMP_Pouch_Tactical_Black" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTV_Green">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="0.3" />
+			<item name="IMP_Pouch_EM_Green" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTV_Tan">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="0.3" />
+			<item name="IMP_Pouch_EM_Tan" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTV_EMR">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="0.3" />
+			<item name="IMP_Pouch_EM_EMR" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTV_NWU">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="0.3" />
+			<item name="IMP_Pouch_EM_NWU" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTV_MARPAT">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_EM_MARPAT" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_IOTV_UCP">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_Tactical_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="0.3" />
+			<item name="IMP_Pouch_EM_UCP" chance="0.3" />
+		</attachments>
+	</type>
+	
+	<type name="IMP_Vest_MediumVest_Green">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Green" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Green" chance="0.3" />
+			<item name="IMP_Pouch_BigVest_Green" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_Green" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MediumVest_Black">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Black" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Black" chance="0.3" />
+			<item name="IMP_Pouch_BigVest_Black" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_Black" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MediumVest_Tan">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_Tan" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_Tan" chance="0.3" />
+			<item name="IMP_Pouch_BigVest_Tan" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_Tan" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MediumVest_UCP">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_UCP" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_UCP" chance="0.3" />
+			<item name="IMP_Pouch_BigVest_UCP" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_UCP" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MediumVest_NWU">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_NWU" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_NWU" chance="0.3" />
+			<item name="IMP_Pouch_BigVest_NWU" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_NWU" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MediumVest_EMR">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_EMR" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_EMR" chance="0.3" />
+			<item name="IMP_Pouch_BigVest_EMR" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_EMR" chance="0.3" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_MediumVest_MARPAT">
+		<attachments chance="1.0">
+			<item name="IMP_Pouch_EM_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_IFAK_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_BigVest_MARPAT" chance="0.3" />
+			<item name="IMP_Pouch_ThreePouch_MARPAT" chance="0.3" />
+		</attachments>
+	</type>
+	
+	<type name="IMP_Vest_VCR_Black">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_MagPouch1_Black" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Black" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_VCR_Green">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_MagPouch1_Green" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Green" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_VCR_Tan">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_Tan" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_VCR_MARPAT">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_MARPAT" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_VCR_UCP">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_UCP" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_VCR_EMR">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_EMR" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="IMP_Vest_VCR_NWU">
+		<attachments chance="0.30">
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="1.0" />
+			<item name="IMP_Pouch_MagPouch1_NWU" chance="1.0" />
+		</attachments>
+	</type>
+	
+	<!-- WEAR --> 
+	<type name="IMP_Jacket_Raincoat">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_M65_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_M65_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_M65_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_M65_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_USMC_WD">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_USMC_Desert">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_TacticalShirt_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_TacticalShirt_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_TacticalShirt_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_TacticalShirt_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Tactical_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Tactical_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Tactical_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Tactical_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Tactical_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Tactical_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Tactical_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_Gorka_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_Gorka_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_Gorka_Forest">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_Gorka_Jungle">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_Gorka_Police">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_Gorka_Surpat">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_Gorka_Winter">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Jacket_SurvivorJacket">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_ABR_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_ABR_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_ABR_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_ABR_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_ABR_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_ABR_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_ABR_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Military_Black">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Military_Green">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Military_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Military_UCP">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Military_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Military_NWU">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="IMP_Pants_Military_MARPAT">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	
+	<!-- VESTS -->
+
+	<type name="IMP_Vest_AACVest_Green">
+	</type>
+	<type name="IMP_Vest_AACVest_Black">
+	</type>
+	<type name="IMP_Vest_AACVest_Tan">
+	</type>
+	<type name="IMP_Vest_AACVest_MARPAT">
+	</type>
+	<type name="IMP_Vest_AACVest_EMR">
+	</type>
+	<type name="IMP_Vest_AACVest_UCP">
+	</type>
+	<type name="IMP_Vest_AACVest_NWU">
+	</type>
+	<type name="IMP_Vest_FBIVest_Green">
+	</type>
+	<type name="IMP_Vest_FBIVest_NWU">
+	</type>
+	<type name="IMP_Vest_FBIVest_EMR">
+	</type>
+	<type name="IMP_Vest_FBIVest_MARPAT">
+	</type>
+	<type name="IMP_Vest_FBIVest_UCP">
+	</type>
+	<type name="IMP_Vest_FBIVest_Black">
+	</type>
+	<type name="IMP_Vest_TacTec_Black">
+	</type>
+	<type name="IMP_Vest_TacTec_Green">
+	</type>
+	<type name="IMP_Vest_TacTec_Tan">
+	</type>
+	<type name="IMP_Vest_TacTec_UCP">
+	</type>
+	<type name="IMP_Vest_TacTec_EMR">
+	</type>
+	<type name="IMP_Vest_TacTec_MARPAT">
+	</type>
+	<type name="IMP_Vest_TacTec_NWU">
+	</type>
+	<type name="IMP_Vest_Redut_Black">
+	</type>
+	<type name="IMP_Vest_FullIOTVMini_Green">
+	</type>
+	<type name="IMP_Vest_FullIOTVMini_Black">
+	</type>
+	<type name="IMP_Vest_FullIOTVMini_Tan">
+	</type>
+	<type name="IMP_Vest_LightVest">
+	</type>
+	<type name="IMP_Vest_6B13_Black">
+	</type>
+	<type name="IMP_Vest_6B13_Tan">
+	</type>
+	<type name="IMP_Vest_6B13_Green">
+	</type>
+	<type name="IMP_Vest_6B13_MARPAT">
+	</type>
+	<type name="IMP_Vest_6B13_EMR">
+	</type>
+	<type name="IMP_Vest_6B13_NWU">
+	</type>
+	<type name="IMP_Vest_6B13_UCP">
+	</type>
+	<type name="IMP_Vest_6B13_Killa">
+	</type>
+	<type name="IMP_Vest_UnloadingVest_Black">
+	</type>
+	<type name="IMP_Vest_UnloadingVest_Green">
+	</type>
+	<type name="IMP_Vest_UnloadingVest_Tan">
+	</type>
+	<type name="IMP_Vest_UnloadingVest_MARPAT">
+	</type>
+	<type name="IMP_Vest_UnloadingVest_EMR">
+	</type>
+	<type name="IMP_Vest_UnloadingVest_UCP">
+	</type>
+	<type name="IMP_Vest_UnloadingVest_NWU">
+	</type>
+	
+	<!-- Разное -->
+	
+	<type name="IMP_Mask_Balaclava_Green">
+	</type>
+	<type name="IMP_Mask_Balaclava_Black">
+	</type>
+	<type name="IMP_Mask_Balaclava_Desert">
+	</type>
+	<type name="IMP_Mask_Balaclava_Skull">
+	</type>
+	<type name="IMP_Mask_Balaclava_UCP">
+	</type>
+	<type name="IMP_Mask_Balaclava_EMR">
+	</type>
+	<type name="IMP_Mask_Balaclava_NWU">
+	</type>
+	<type name="IMP_Mask_Balaclava_MARPAT">
+	</type>
+	<type name="IMP_Mask_TacticalMask_Green">
+	</type>
+	<type name="IMP_Mask_TacticalMask_Black">
+	</type>
+	<type name="IMP_Mask_TacticalMask_Tan">
+	</type>
+	<type name="IMP_Mask_TacticalMask_EMR">
+	</type>
+	<type name="IMP_Mask_TacticalMask_UCP">
+	</type>
+	<type name="IMP_Mask_TacticalMask_NWU">
+	</type>
+	<type name="IMP_Mask_TacticalMask_MARPAT">
+	</type>
+
+</spawnabletypes>	

@@ -1,0 +1,1318 @@
+	<type name="AK101_Welliton_Emperor">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Mag_AK101_30Rnd_Welliton_Emperor">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticBttstck_Welliton_Emperor">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticHndgrd_Welliton_Emperor">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	
+
+	
+	<type name="AKM_Welliton_Anubis">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Mag_AKM_30Rnd_Welliton_Anubis">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticBttstck_Welliton_Anubis">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticHndgrd_Welliton_Anubis">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="AKM_Welliton_Azimov">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Mag_AKM_30Rnd_Welliton_Azimov>
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticBttstck_Welliton_Azimov">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticHndgrd_Welliton_Azimov">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_Suppressor_Welliton_Azimov">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	
+	<type name="AKM_Welliton_Bushido">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Mag_AKM_30Rnd_Welliton_Bushido">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticBttstck_Welliton_Bushido">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticHndgrd_Welliton_Bushido">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_Suppressor_Welliton_Bushido">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+	<type name="AKM_Welliton_Point_Disarray">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Mag_AKM_30Rnd_Welliton_Point_Disarray">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticBttstck_Welliton_Point_Disarray">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticHndgrd_Welliton_Point_Disarray">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_Suppressor_Welliton_Point_Disarray">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+	<type name="AKM_Welliton_Neon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Mag_AKM_30Rnd_Welliton_Neon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticBttstck_Welliton_Neon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticHndgrd_Welliton_Neon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AKM_Welliton_RedSkin">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Mag_AKM_30Rnd_Welliton_RedSkin">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticBttstck_Welliton_RedSkin">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticHndgrd_Welliton_RedSkin">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AKM_Welliton_Vulkan">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Mag_AKM_30Rnd_Welliton_Vulkan">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticBttstck_Welliton_Vulkan">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_PlasticHndgrd_Welliton_Vulkan">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="AK_Suppressor_Welliton_Vulkan">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="Deagle_Welliton_Trigger_Discipline">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Deagle_Welliton_Fennec_Fox">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Deagle_Welliton_Emerald">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+	<type name="LAR_PurpleLine">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="LAR_Mag_PurpleLine">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="LAR_Stock_PurpleLine">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="LAR_RedDragon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="LAR_Mag_RedDragon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="LAR_Stock_RedDragon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="LAR_Yellow">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="LAR_Mag_Yellow">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="LAR_Stock_Yellow">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+
+
+	<type name="M4A1_Welliton_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4A1_StanagMag_Welliton_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_MPBttstck_Welliton_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="M4_PlasticHndgrd_Welliton_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_Suppressor_Welliton_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_CarryHandleOptic_Welliton_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+
+	<type name="M4A1_Dragon_Zmei">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4A1_StanagMag_Dragon_Zmei">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_MPBttstck_Dragon_Zmei">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="M4_PlasticHndgrd_Dragon_Zmei">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_Suppressor_Dragon_Zmei">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_CarryHandleOptic_Dragon_Zmei">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+
+	<type name="M4A1_Golden_Coil">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4A1_StanagMag_Golden_Coil">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_MPBttstck_Golden_Coil">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="M4_PlasticHndgrd_Golden_Coil">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_Suppressor_Golden_Coil">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_CarryHandleOptic_Golden_Coil">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+
+	<type name="M4A1_Welliton_Golden_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4A1_StanagMag_Welliton_Golden_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_MPBttstck_Welliton_Golden_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="M4_PlasticHndgrd_Welliton_Golden_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_Suppressor_Welliton_Golden_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_CarryHandleOptic_Welliton_Golden_Anime">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+
+
+	<type name="M4A1_Welliton_Nightmare">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4A1_StanagMag_Welliton_Nightmare">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_MPBttstck_Welliton_Nightmare">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="M4_PlasticHndgrd_Welliton_Nightmare">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_Suppressor_Welliton_Nightmare">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_CarryHandleOptic_Welliton_Nightmare">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+
+
+
+	<type name="M4A1_Welliton_Painter">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4A1_StanagMag_Welliton_Painter">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_MPBttstck_Welliton_Painter">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="M4_PlasticHndgrd_Welliton_Painter">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_Suppressor_Welliton_Painter">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_CarryHandleOptic_Welliton_Painter">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+	<type name="M4A1_Welliton_Red_Dragon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4A1_StanagMag_Welliton_Red_Dragon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_MPBttstck_Welliton_Red_Dragon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="M4_PlasticHndgrd_Welliton_Red_Dragon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_Suppressor_Welliton_Red_Dragon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_CarryHandleOptic_Welliton_Red_Dragon">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+
+
+
+	<type name="M4A1_Welliton_Tactical">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4A1_StanagMag_Welliton_Tactical">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_MPBttstck_Welliton_Tactical">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+	<type name="M4_PlasticHndgrd_Welliton_Tactical">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_Suppressor_Welliton_Tactical">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="M4_CarryHandleOptic_Welliton_Tactical">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+
+	<type name="Saiga_Purple">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Mag_Saiga_Drum20Rnd_Purple">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Saiga_Bttstck_Purple">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+	<type name="Saiga_Revolution">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Mag_Saiga_Drum20Rnd_Revolution">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Saiga_Bttstck_Revolution">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+
+
+	<type name="Saiga_Spec">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Mag_Saiga_Drum20Rnd_Spec">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
+	<type name="Saiga_Bttstck_Spec">
+       <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>2700</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military"/>
+	</type>
