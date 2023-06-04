@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
     <type name="MVS_Combat_Vest_OD">
         <nominal>3</nominal>
         <lifetime>7200</lifetime>
@@ -6725,3 +6727,4 @@
         <category name="clothes"/>
         <usage name="Military"/>
     </type>
+</types>

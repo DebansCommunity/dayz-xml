@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
 	<type name="RadiationCure">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
@@ -231,3 +233,4 @@
 		<usage name="Town"/>
 		<usage name="Village"/>
 	</type>
+</types>

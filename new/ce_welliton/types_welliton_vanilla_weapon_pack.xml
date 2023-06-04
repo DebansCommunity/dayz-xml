@@ -1,4 +1,6 @@
-	<type name="AK101_Welliton_Emperor">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="AK101_Welliton_Emperor">
        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>2700</restock>
@@ -1316,3 +1318,4 @@
 		<category name="weapons" />
 		<usage name="Military"/>
 	</type>
+</types>
